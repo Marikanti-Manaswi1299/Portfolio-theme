@@ -7,9 +7,8 @@
     background: black;
 }
 #main-header .menu-item{
-    width: 25%;
-    opacity: 0.8;
-    cursor: pointer;
+    width: 100%;
+    
 }
 #main-header .menu-item :hover{
     opacity: 0.8;
