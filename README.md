@@ -1,2 +1,2 @@
-# Portfolio-theme
-My portfolio theme
+# Portfolio-template
+My portfolio template
